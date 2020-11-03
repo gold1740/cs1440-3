@@ -1,0 +1,38 @@
+
+[============]
+[Final Report]
+[============]
+
+Statistics over all industries in 2017:
+=========================================================
+Number of FIPS areas in report       5
+
+Gross annual wages                   $32,494,225,407
+Area with maximum annual wages       Honolulu County, Hawaii
+Maximum reported wage                $24,555,071,780
+
+Total number of establishments       41,078
+Area with most establishments        Honolulu County, Hawaii
+Maximum # of establishments          25,859
+
+Gross annual employment level        654,185
+Area with maximum employment         Honolulu County, Hawaii
+Maximum reported employment level    473,447
+
+
+Statistics over the software publishing industry in 2017:
+=========================================================
+Number of FIPS areas in report       5
+
+Gross annual wages                   $11,208,355
+Area with maximum annual wages       Honolulu County, Hawaii
+Maximum reported wage                $7,967,280
+
+Total number of establishments       77
+Area with most establishments        Honolulu County, Hawaii
+Maximum # of establishments          44
+
+Gross annual employment level        111
+Area with maximum employment         Honolulu County, Hawaii
+Maximum reported employment level    73
+
